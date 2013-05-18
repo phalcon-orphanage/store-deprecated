@@ -64,6 +64,8 @@ div.sell-tip span.info {
 
 .share {
 	margin-top: 100px;
+	background: #313131;
+	border-radius: 5px;
 }
 
 .share td {

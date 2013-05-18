@@ -2,15 +2,6 @@
 
 {% block content %}
 
-	<div id="fb-root"></div>
-	<script>(function(d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (d.getElementById(id)) return;
-		js = d.createElement(s); js.id = id;
-		js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=130991030345337";
-		fjs.parentNode.insertBefore(js, fjs);
-	}(document, 'script', 'facebook-jssdk'));</script>
-
 	<div align="center">
 		<h1>Phalcon Stickers</h1>
 		We’ve prepared some gorgeous Phalcon stickers for you!
@@ -44,10 +35,9 @@
 	</form>
 
 	<div align="center" class="share">
-		<table align="right">
+		<table align="center">
 			<tr>
 				<td><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://store.phalconphp.com" data-text="Phalcon's store" data-via="phalconphp" data-count="none">Tweet</a></td>
-				<td><div class="fb-like" data-href="http://store.phalconphp.com" data-send="true" data-show-faces="false" data-font="arial" data-action="recommend"></div></td>
 				<td><div class="g-plus" data-action="share"></div></td>
 			</tr>
 		</table>
