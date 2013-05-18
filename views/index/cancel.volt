@@ -6,4 +6,6 @@
 
 <em>Hope to see you soon!</em>
 
+{{ link_to('', 'Go back to Home', 'class': 'btn btn-large') }}
+
 {% endblock %}

@@ -63,11 +63,11 @@ div.sell-tip span.info {
 }
 
 .share {
-	margin-top: 100px;
-	background: #313131;
+	margin-top: 40px;
 	border-radius: 5px;
+	background: #dadada;
 }
 
 .share td {
-	padding: 20px;
+	padding: 5px;
 }

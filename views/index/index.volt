@@ -34,8 +34,8 @@
 		<img alt="" border="0" src="https://www.paypalobjects.com/es_XC/i/scr/pixel.gif" width="1" height="1">
 	</form>
 
-	<div align="center" class="share">
-		<table align="center">
+	<div class="share" align="right">
+		<table>
 			<tr>
 				<td><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://store.phalconphp.com" data-text="Phalcon's store" data-via="phalconphp" data-count="none">Tweet</a></td>
 				<td><div class="g-plus" data-action="share"></div></td>
