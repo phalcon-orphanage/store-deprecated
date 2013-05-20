@@ -21,7 +21,7 @@
                             <img src="http://static.phalconphp.com/img/logo-small-sp.png" alt="Logo Small Sp">
                         </a>
                         <div class="nav-collapse collapse">
-                            <ul class="nav pull-right">
+                            <ul class="nav">
                                 <li><a href="http://phalconphp.com/download">Download</a></li>
                                 <li><a href="http://phalconphp.com/documentation">Documentation</a></li>
                                 <li><a href="http://phalconphp.com/support">Support</a></li>

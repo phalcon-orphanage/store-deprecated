@@ -14,19 +14,20 @@
 
 		<div align="center">
 			<div class="product-container">
-				<img class="media-object img-circle img-sticker" data-src="{{ url("img/phalcon-22.png") }}" src="{{ url("img/phalcon-22.png") }}">
+				<img class="media-object img-circle img-sticker" data-src="http://static.phalconphp.com/img/phalcon-22.png" src="http://static.phalconphp.com/img/phalcon-22.png">
 			</div>
 		</div>
 
 		<div align="center">
 			<div class="sell-tip">
-				For just <span class="d">5 USD</span> + delivery costs you got a set of <span class="d">5</span> amazing stickers
+				For just <span class="d">5 USD</span> + delivery costs you got a set of
+                <span class="d">5</span> amazing stickers!
 				<div align="center">
 					<button class="btn btn-large btn-success"><i class="icon-heart icon-white"></i> Buy</button>
 				</div>
 				<span class="info">
 					Stickers are delivered to any part of the world in just a few days.
-					Spread the word about Phalcon by gifting stickers to your friends
+					Spread the word about Phalcon by gifting stickers to your friends!
 				</span>
 			</div>
 		</div>
