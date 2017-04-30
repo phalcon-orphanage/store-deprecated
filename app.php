@@ -17,6 +17,13 @@ $app->get('/thanks', function () use ($app) {
 /**
  * Add your routes here
  */
+$app->get('/success', function () use ($app) {
+	echo $app->render('index/thanks');
+});
+
+/**
+ * Add your routes here
+ */
 $app->get('/cancel', function () use ($app) {
 	echo $app->render('index/cancel');
 });
